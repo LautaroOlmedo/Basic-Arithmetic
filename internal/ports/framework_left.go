@@ -1,13 +1,14 @@
 package ports
 
 import (
-	_ "context"
+	"Arithmetic/internal/adapter/framework/left/grpc/pb"
+	"context"
 )
 
 type GRPCPort interface {
-	RUn()
-	GetAddition()
-	GetSubtraction()
-	GetMultiplication()
-	GetDivision()
+	Run()
+	GetAddition(ctx context.Context, req *pb.OperationParameters) (*pb.Answer, error)
+	GetSubtraction(ctx context.Context, req *pb.OperationParameters) (*pb.Answer, error)
+	GetMultiplication(ctx context.Context, req *pb.OperationParameters) (*pb.Answer, error)
+	GetDivision(ctx context.Context, req *pb.OperationParameters) (*pb.Answer, error)
 }

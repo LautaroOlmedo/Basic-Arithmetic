@@ -1,6 +1,6 @@
 Hex arch + gRPC.
 
-En este repo podemos encontrar un proyecto estructurado con arquitectura hexagonal y el protocolo gRPC
+En este repo podemos encontrar un proyecto estructurado con arquitectura hexagonal y el protocolo gRPC.
 
 
 **Arquitectura Hexagonal**
@@ -25,7 +25,7 @@ Entre sus principales características podemos encontrar:
 
 * Ofrece JSON encondings y serialización con PROTO 3.
 
-* Genera automáticamente stubs idiomáticos de cliente y servidor para su servicio en una variedad de idiomas y plataformas
+* Genera automáticamente stubs idiomáticos de cliente y servidor para su servicio en una variedad de idiomas y plataformas.
 
 * Autenticación incorporada soportando SSL.
 

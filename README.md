@@ -28,8 +28,8 @@ Entre sus principales características podemos encontrar:
 
 * Autenticación incorporada soportando SSL.
 
-![proto](https://github.com/LautaroOlmedo/Basic-Arithmetic/assets/72723456/140ff6d5-42f3-45ec-8443-21ee3ebe08a1)
 
+https://refactorizando.com/wp-content/uploads/2020/05/Untitled-Diagram-11.png
 
 
 

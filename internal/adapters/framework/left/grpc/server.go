@@ -1,7 +1,7 @@
 package grpc
 
 import (
-	"Arithmetic/internal/adapter/framework/left/grpc/pb"
+	"Arithmetic/internal/adapters/framework/left/grpc/pb"
 	"Arithmetic/internal/ports"
 	"google.golang.org/grpc"
 	"log"

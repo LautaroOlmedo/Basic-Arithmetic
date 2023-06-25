@@ -1,7 +1,7 @@
 package ports
 
 import (
-	"Arithmetic/internal/adapter/framework/left/grpc/pb"
+	"Arithmetic/internal/adapters/framework/left/grpc/pb"
 	"context"
 )
 

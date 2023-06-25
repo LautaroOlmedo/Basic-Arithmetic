@@ -3,7 +3,7 @@ package grpc
 import (
 	"context"
 
-	"Arithmetic/internal/adapter/framework/left/grpc/pb"
+	"Arithmetic/internal/adapters/framework/left/grpc/pb"
 
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

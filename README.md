@@ -29,7 +29,8 @@ Entre sus principales características podemos encontrar:
 
 * Autenticación incorporada soportando SSL.
 
-![proto](https://github.com/LautaroOlmedo/Basic-Arithmetic/assets/72723456/140ff6d5-42f3-45ec-8443-21ee3ebe08a1)
+![image](https://github.com/LautaroOlmedo/Basic-Arithmetic/assets/72723456/bffbb04e-ca0b-4f23-b069-f2f921cfb4c3)
+
 
 
 

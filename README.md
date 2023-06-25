@@ -9,7 +9,8 @@ La Arquitectura Hexagonal, dada a conocer por Alistair Cockburn y también conoc
 
 Gracias a este desacoplamiento obtenemos también la ventaja de poder testear estas capas sin que intervengan otras externas, falseando el comportamiento con dobles de pruebas.
 
-![hexagonal.png](..%2F..%2FDownloads%2Fhexagonal.png)
+
+![hexagonal](https://github.com/LautaroOlmedo/Basic-Arithmetic/assets/72723456/e43fe007-20a4-4604-8390-492640798ed5)
 
 
 **gRPC**
@@ -27,7 +28,8 @@ Entre sus principales características podemos encontrar:
 
 * Autenticación incorporada soportando SSL.
 
-![proto.png](..%2F..%2FDownloads%2Fproto.png)
+![proto](https://github.com/LautaroOlmedo/Basic-Arithmetic/assets/72723456/140ff6d5-42f3-45ec-8443-21ee3ebe08a1)
+
 
 
 
